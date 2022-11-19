@@ -1,0 +1,30 @@
+body{
+background-color:#FFE4E1;
+}
+
+h1{
+  color: Red;
+  font-style: italic;
+  text-align: center;
+  font-size:50px;
+}
+.guj{
+  text-align: center;
+  color: purple;
+  position: relative;
+
+}
+.Mum{
+  text-align: left;
+  color: blue;
+  position: relative;
+
+}
+.Hyd{
+  text-align: right;
+  color: Green;
+  position: relative;
+}
+h3{
+color:blue; 
+}
